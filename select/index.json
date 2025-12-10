@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "懐色、虚色",
+  "base_artist": "Teary Planet",
+  "createdAt": "2025-12-10T13:14:08.847016Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "懐色、虚色",
+      "artist": "Teary Planet",
+      "has_synced": false,
+      "path": "select/pl_01_懐色、虚色_Teary_Planet.txt"
+    }
+  ]
+}
